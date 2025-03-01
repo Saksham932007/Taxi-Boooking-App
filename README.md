@@ -24,9 +24,9 @@ Here are some screenshots of the app in action:
 
 | **Home Screen** | **Map Screen** | **Ride Options** |
 |-----------------|----------------|------------------|
-| ![Home Screen](home%20screen.jpg) | ![Map Screen](Map%20screen.jpg) | ![Ride Options](Select%20a%20ride.jpg) |
+| ![Home Screen](homescreen.jpg) | ![Map Screen](Map%20screen.jpg) | ![Ride Options](Select%20a%20ride.jpg) |
 
-*(Replace the placeholder links with actual screenshots of your app once you have them.)*
+
 
 ---
 
