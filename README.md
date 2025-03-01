@@ -24,7 +24,7 @@ Here are some screenshots of the app in action:
 
 | **Home Screen** | **Map Screen** | **Ride Options** |
 |-----------------|----------------|------------------|
-| ![Home Screen](https://via.placeholder.com/300x600?text=Home+Screen) | ![Map Screen](https://via.placeholder.com/300x600?text=Map+Screen) | ![Ride Options](https://via.placeholder.com/300x600?text=Ride+Options) |
+| ![Home Screen](<img src="homescreen.jpg" alt="Home Screen" width="30%" />) | ![Map Screen](<img src="Map screen.jpg" alt="Map Screen" width="100%" />) | ![Ride Options](<img src="Select a ride.jpg" alt="Ride Options" width="100%" />) |
 
 *(Replace the placeholder links with actual screenshots of your app once you have them.)*
 
